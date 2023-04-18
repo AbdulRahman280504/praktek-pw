@@ -1,0 +1,6 @@
+1.Web adalah bagian dari internet yang saling berhubungan yang umumnya berada pada peladen yang sama berisikan informasi yang disediakan secara per oranngan, kelompok, atau organisasi.
+2.URI (Uniform Resource identifer) adalah identifikasi sumber daya dari internet sedangan URL (Uniform Resource Location) adalah lokasi dari sumber daya internet
+3.<h1> s/d <h6> memberikan judul pada Web
+    <p> paragraf untuk mengelompokan kalimat ke dalam beberapa bagian text
+    <br> pemisah baris
+    4. DOCTYPE adalah tag yang menandakan penggunaan dari HTMLS pada web
